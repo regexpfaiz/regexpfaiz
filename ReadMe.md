@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working looking for job as a Fresher.<br><br>👯 I’m looking to collaborate on: Machine learning projects, data analysis, and Power BI/Tableau dashboards.<br><br>🤝 I’m looking for help with: Streamlining GitHub workflows and advancing my understanding of deep learning techniques.<br><br>🌱 I’m currently learning: Machine learning, deep learning, and tools like Power BI, Tableau, and SQL Workbench.<br><br>💬 Ask me about: Machine learning algorithms, data visualization, SQL, and my journey from Mechanical Engineering to Data Science.<br><br>⚡ Fun fact: I’m passionate about turning data into actionable insights, and I thrive on simplifying complex ideas into digestible nuggets of knowledge!
+🔭 I’m currently working looking for job as a Fresher.
+<br><br>👯 I’m looking to collaborate on: Machine learning projects, data analysis, and Power BI/Tableau dashboards.
+<br><br>🤝 I’m looking for help with: Streamlining GitHub workflows and advancing my understanding of deep learning techniques.
+<br><br>🌱 I have completed learning: Machine learning, deep learning, and tools like Power BI, Tableau, and SQL Workbench.
+<br><br>💬 Ask me about: Machine learning algorithms, data visualization, SQL, and my journey from Mechanical Engineering to Data Science.
+<br><br>⚡ Fun fact: I’m passionate about turning data into actionable insights, and I thrive on simplifying complex ideas into digestible nuggets of knowledge!
 
 
 ## 🌐 Socials:
